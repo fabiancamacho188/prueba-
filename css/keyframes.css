@@ -1,0 +1,21 @@
+@keyframes logo { 
+  from { 
+      opacity: 0;
+      top: -150;
+  }
+  to{
+      opacity: 1;
+      top: -150;
+  }
+}
+@-webkit-keyframes logo{
+    from { 
+        opacity: 0;
+        top: -150;
+    }
+    to{
+        opacity: 1;
+        top: -150;
+   }
+}
+
